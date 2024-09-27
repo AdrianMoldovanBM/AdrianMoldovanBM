@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AdrianMoldovan
-- 👀 I’m interested in Data analysis, IT, Technology and innovative ideas that leads to progress and a better future.
-- 🌱 I’m currently learning data analist tools like Excel, Google Sheets. SQL, Python. Power BI, Jupyter Notebook, Google Colab
-- 📫 How to reach me www.linkedin.com/in/moldovan-adrian-bm
+- 👋 Hi, I’m @Adriann
+- 👀 I’m interested in IT, machine learning and innovative ideas that lead to progress and a better future.
+- 🌱 I'm using powerful tools such as Excel, Google Sheets, SQL, Python, Power BI, Jupyter Notebook, and Google Colab, in order to uncover valuable insights into data.
+- 📫 Reach me via www.linkedin.com/in/moldovan-adrian-bm
+               or https://adrianmoldovanbm.wixsite.com/portfolio
+
 
 <!---
 AdrianMoldovanBM/AdrianMoldovanBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
