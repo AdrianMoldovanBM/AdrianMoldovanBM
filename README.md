@@ -11,7 +11,8 @@ PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOO
 
 <div style="page-break-after: always;"></div>
 
-📫 Reach me via: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
+#### 📫 Reach me via: 
+www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/moldovan-adrian-bm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adrianmoldovanbm.wixsite.com/portfolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/adrianmoldovanbm)  
