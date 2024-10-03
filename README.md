@@ -1,6 +1,6 @@
 ![Data Analyst](https://img.freepik.com/premium-photo/candid-business-team-discussing-cash-flow-strategies-modern-office-collaborative-financial-pl_980716-742182.jpg?w=1380)
 # Hi there 👋, I'm Adrian 
-#### Data Analyst
+### Data Analyst
 With a solutions-focused mindset, a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented aproach.
 
 I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future.
