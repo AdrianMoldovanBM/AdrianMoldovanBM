@@ -5,7 +5,8 @@
 I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future, with a decade of background in communication, sales, and human relationship.
 A solutions-focused professional with a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented mindset
 
-Skills: PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
+## Skills and Experience
+PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
 
 - 📫 How to reach me: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
