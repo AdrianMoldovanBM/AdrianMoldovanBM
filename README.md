@@ -7,7 +7,6 @@ A solutions-focused professional with a collaborative team spirit, exceptional c
 
 Skills: PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
 
