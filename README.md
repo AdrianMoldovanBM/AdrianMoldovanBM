@@ -2,9 +2,9 @@
 ## Hi there 👋, I'm Adrian
 ### Data Analyst
 
-I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future, with a decade of background in communication, sales, and human relationship.
-
 A solutions-focused professional with a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented mindset
+
+I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future.
 
 ## Skills and Experience
 PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
