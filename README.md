@@ -1,15 +1,19 @@
+![Data Analyst](https://img.freepik.com/premium-photo/candid-business-team-discussing-cash-flow-strategies-modern-office-collaborative-financial-pl_980716-742182.jpg?w=1380)
 ### Hi there 👋, I'm Adrian
 #### Data Analyst
-![Data Analyst](https://img.freepik.com/free-vector/gradient-data-analysis-facebook-cover-template_23-2150629530.jpg?t=st=1727979138~exp=1727982738~hmac=c6e7a3147cfd2acc11fdc72049b7ae91d9d119d5c6606980651f54efc9009f17&w=1380)
 
 I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future, with a decade of background in communication, sales, and human relationship.
 A solutions-focused professional with a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented mindset
 
 Skills: PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
 
-📫 Reach me via www.linkedin.com/in/moldovan-adrian-bm
-or
-https://adrianmoldovanbm.wixsite.com/portfolio
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/moldovan-adrian-bm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adrianmoldovanbm.wixsite.com/portfolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/adrianmoldovanbm)  
+
+
 
 
 
