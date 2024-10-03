@@ -8,7 +8,7 @@ I’m interested in IT, machine learning, AI, and innovative ideas that lead to 
 
 ## Skills and Experience
 PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
-
+<div style="page-break-after: always;"></div>
 📫 Reach me via: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
 
