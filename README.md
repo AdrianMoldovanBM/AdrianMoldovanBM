@@ -2,16 +2,14 @@
 # Hi there 👋, I'm Adrian
 ## Data Analyst
 
-With a solutions-focused approach, a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented mindset.
+With a solutions-focused mindset, a collaborative team spirit, exceptional communication skills, and a strong aptitude for time management. I excel in delivering results by balancing efficiency with a goal-oriented aproach.
 
 I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future.
 
 ## Skills and Experience
 PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
 
-<div style="page-break-after: always;"></div>
-
-#### 📫 Reach me via: 
+### 📫 Reach me via: 
 www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
 
