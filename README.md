@@ -6,7 +6,7 @@ With a solutions-focused mindset, a collaborative team spirit, exceptional commu
 I’m interested in IT, machine learning, AI, and innovative ideas that lead to progress and a better future.
 ##
 ### Skills and Experience
-PYTHON / SQL / POWER BI / EXCEL / GOOGLE SHEETS / GOOGLE COLAB / JUPYTER NOTEBOOK
+PYTHON | SQL | POWER BI | EXCEL | GOOGLE SHEETS | GOOGLE COLAB | JUPYTER NOTEBOOK
 ##
 📫 Reach me via: www.linkedin.com/in/moldovan-adrian-bm or https://adrianmoldovanbm.wixsite.com/portfolio 
 
